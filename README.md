@@ -3,7 +3,7 @@ Python code to generate and play maze in the terminal. Refreshes by clearing the
 
 
 # The maze generator - gen.py
-Uses DFS to generate a square maze of user specified dimensions (5 to 50, but >25 recommended if you want to watch it generate). 
+Uses DFS to generate a square maze of user specified dimensions (5 to 50, but <25 recommended if you want to watch it generate). 
 You have options to watch the algorithm work and save the resulting maze to a txt file. 
 The start is markes with 's' end is 'e' and walls are either '_' or '|'.
 
